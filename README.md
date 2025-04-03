@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm DeepScar19 👋
+I'm a stuid python coder from Germany (My english is not the yellow from the egg!).
 
+## My stats (Not the best, I know)
+![](https://github-readme-stats.vercel.app/api?username=DeepScar19&show_icons=true&theme=radical)
 <!--
 **DeepScar19/DeepScar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
