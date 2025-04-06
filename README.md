@@ -1,5 +1,5 @@
 ## Hi there, I'm DeepScar19 👋
-I'm a stuid python coder from Germany (My english is not the yellow from the egg!).
+I'm a stupid python coder from Germany (My english is not the yellow from the egg!).
 
 ## My stats (Not the best, I know)
 ![](https://github-readme-stats.vercel.app/api?username=DeepScar19&show_icons=true&theme=radical)
